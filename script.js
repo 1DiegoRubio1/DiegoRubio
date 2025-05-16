@@ -54,7 +54,7 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Añadir clase activa al enlace de navegación correspondiente al desplazarse
+// Añadir clase activa al enlace de navegacións correspondiente al desplazarse
 window.addEventListener('scroll', () => {
     const scrollPosition = window.scrollY;
 
